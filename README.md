@@ -1,4 +1,4 @@
-<h1>Artificial Intelligence - Local search (optimization)</h1>
+<h1>Artificial Intelligence - Local Search (Optimization) - 2018</h1>
 <h2>Conference Schedule Optimization:</h2>
 This application seeks to minimize wasted time at a conference, using genetic algorithm developed in Java.
 
